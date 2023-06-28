@@ -15,23 +15,34 @@ Excel es una poderosa herramienta de hoja de cálculo que ofrece una amplia gama
 
 **Contenidos:**
 
-| Command | Description |
-| --- | --- |
-| MÓDULO I
- Introducción excel nivel intermedio | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+*MODULO I*: Introducción excel nivel intermedio
 
-* SQL básico: SELECT, FROM, WHERE y operadores lógicos correspondientes.
-* SQL Joins: Combinar tablas mediante joins SQL para responder preguntas empresariales.
-* SQL avanzado: sub consultas (CTE), RANK, NTILE, LAG, LEAD. Limpieza de datos, optimizar consultas y escribir JOIN''s
-avanzados.
+Identificar las herramientas e interfaz de microsoft excel de acuerdo con sus características.
+
+* Herramientas y características de excel intermedio.
+* Funciones intermedias.
+
+*MODULO II*: Tablas dinámicas
+
+Aplicar tablas dinámicas según herramientas de validación de datos y gráficos.
+
+* Tablas conceptos generales
+* Funcionamiento
+* Tablas dinámicas
+* Filtros de tabla
+* Crear fórmulas en tablas dinámicas
+* Herramienta de valores
+* Función segmentación de datos
+* Función cálculo
+* Función gráficos
+* Validación de datos
 
 **Actividades**
 
-* Participa activamente de las clases sincrónicas a través de ZOOM.
+* Participa activamente de las clases.
 * Lectura de textos y material complementario indicados por el profesor.
 * Participa activamente en foro del aula virtual cuando se lo indica su profesor.
-* Practica sentencias y consultas avanzadas en SQL para responder preguntas entorno a un negocio.
+* Practica  y consultas avanzadas en SQL para responder preguntas entorno a un negocio.
 
 **Actitudes**
 
