@@ -66,6 +66,11 @@ de problemas de diversos ámbitos.
 * Cinta de Etiquetas de Excel [Clase 1](https://www.dropbox.com/s/sj3voanwmxuhmyr/Excel%20Intermedio%20-%20Clase1.pdf?dl=0).
 * Funciones Graficos [Clase 2.1](https://www.dropbox.com/s/lpi2dgq5w29v2kz/Excel%20Intermedio%20-%20Clase2.1.pdf?dl=0), [Clase 2.2](https://www.dropbox.com/s/7cxvqbkamfhnzez/Excel%20Intermedio%20-%20Clase2.pdf?dl=0), [Laboratorio 2](https://www.dropbox.com/s/w5dpi0pep9pohco/Laboratorio_1.pdf?dl=0).
 
+### Topicos Complmentarios 
+
+* BoxPlot en Excel [link 1](https://www.dropbox.com/s/p1983bvfl9xjdav/Grsficos_BoxPlot.pdf?dl=0).
+
+
 ## Recursos digitales
 
 
