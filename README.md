@@ -55,40 +55,18 @@ las actividades académicas.
 de problemas de diversos ámbitos.
 
 
-### Introducción a Base de datos
+### Informacion inicial para el curso.
 
-* Introducción parte 1 [Clase 1](https://www.dropbox.com/sh/qusarj37ardrfx9/AAC-M-uoSM9UpRvOms3iDVBaa?dl=0).
-* Introducción parte 2 [Clase 2](https://www.dropbox.com/sh/qptcojrq0fjju23/AADy4GZ1XyKIxBsOIBtJ0UEfa?dl=0).
+* Introducción Modulo 1 [link](https://www.dropbox.com/s/svp7oeo16fqajsn/Modulo_I.pdf?dl=0).
+* Introducción Modulo 2 [link](https://www.dropbox.com/s/okbvmvgvrwzfkgf/Modulo_II.pdf?dl=0).
+* Introducción Tablas Dinamicas [link](https://www.dropbox.com/s/2028fom1dcgnzyg/Tablas_Dinamicas.pdf?dl=0).
 
-### Analisis de Datos con SQL
+### Topicos curso microsoft Excel Intermedio 
 
-* Introducción SQL [Clase 3](https://www.dropbox.com/sh/cmcw6h561yiq89h/AACY6T52Mki_LrNKl7y5WqvMa?dl=0).
-* Tablas y SQL [Clase 4](https://www.dropbox.com/sh/ixanvliw1dp4yr2/AABKQ41uOh9aYDNkFZNQ5F8Fa?dl=0).
-* SQL: Create, Alter y Drop [Clase 5](https://www.dropbox.com/sh/hyey3b5pxgyr6u8/AAArk0dM31YLTzv2RLJU0fR0a?dl=0).
-* SQL: Joins [Clase 6](https://www.dropbox.com/sh/iu5sbyqrpgtcne6/AAALIIXA_vR1hwXW-wLKWV9Aa?dl=0)
-* SQL: sub-consultas (CTE), RANK, NTILE, LAG, LEAD y JOINS avanzados [Clase 7](https://www.dropbox.com/sh/cthyu0strlz1ki5/AAAShBjRtmO1OnB4bNGh4u0Ma?dl=0)
+* Cinta de Etiquetas de Excel [Clase 1](https://www.dropbox.com/s/sj3voanwmxuhmyr/Excel%20Intermedio%20-%20Clase1.pdf?dl=0).
+* Funciones Graficos [Clase 2](https://www.dropbox.com/s/7cxvqbkamfhnzez/Excel%20Intermedio%20-%20Clase2.pdf?dl=0).
 
 ## Recursos digitales
-
-* SQL Fiddle A tool for easy online testing and sharing of database problems and their solutions. [link](http://sqlfiddle.com/).
-* Programa especializado: Learn SQL Basics for Data Science. [link](https://www.coursera.org/learn/intro-sql).
-* SQL Tutorial. [link](https://sqlzoo.net/wiki/SQL_Tutorial).
-* SQL: The Complete Reference is the right book for anyone who wants to understand and learn SQL, including database users. [link](http://160592857366.free.fr/joe/ebooks/ShareData/SQL%20-%20The%20Complete%20Reference.pdf).
-
-## XAMPP para Windows
-
-XAMPP es una distribución de Apache fácil de instalar que contiene MariaDB, PHP y Perl. Simplemente descarga y ejecuta el instalador. ¡Es así de fácil!
-
-* Descargar XAMPP [link](https://www.apachefriends.org/es/download.html)
-* Tutorial instalación XAMPP 1 [link](https://notasdelprofesor.files.wordpress.com/2014/02/xampp-instalacion.pdf)
-* Tutorial instalación XAMPP 2 [link](https://www.ionos.es/digitalguide/servidores/herramientas/instala-tu-servidor-local-xampp-en-unos-pocos-pasos/)
-* Video tutorial instalación XAMPP [link](https://www.youtube.com/watch?v=MtllDrDm4cM)
-
-
-
-
-
-
 
 
 
