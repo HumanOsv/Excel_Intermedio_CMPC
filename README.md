@@ -41,8 +41,8 @@ Aplicar tablas dinámicas según herramientas de validación de datos y gráfico
 
 * Participa activamente de las clases.
 * Lectura de textos y material complementario indicados por el profesor.
-* Participa activamente en foro del aula virtual cuando se lo indica su profesor.
-* Practica  y consultas avanzadas en SQL para responder preguntas entorno a un negocio.
+* Participa activamente en la clase cuando se lo indica su profesor.
+* Practica funciones y tablas dinamicas en excel.
 
 **Actitudes**
 
