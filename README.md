@@ -72,7 +72,7 @@ de problemas de diversos ámbitos.
 
 * BoxPlot en Excel [link 1](https://www.dropbox.com/s/p1983bvfl9xjdav/Grsficos_BoxPlot.pdf?dl=0).
 * Formato condicional en Excel 1 [link 2](https://www.dropbox.com/s/xs3lxkpxoudyiv9/Formato-Condicional.pdf?dl=0).
-* Formato condicional en Excel 2 [link 3](https://www.dropbox.com/s/7zdl3jvcrh505xn/excel_205_funciones_condicionales_busqueda.pdf?dl=0)
+* Formato condicional en Excel 2 [link 3](https://www.dropbox.com/s/7zdl3jvcrh505xn/excel_205_funciones_condicionales_busqueda.pdf?dl=0).
 
 ## Recursos digitales
 
