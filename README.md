@@ -65,11 +65,14 @@ de problemas de diversos ámbitos.
 
 * Cinta de Etiquetas de Excel [Clase 1](https://www.dropbox.com/s/sj3voanwmxuhmyr/Excel%20Intermedio%20-%20Clase1.pdf?dl=0).
 * Funciones Graficos [Clase 2.1](https://www.dropbox.com/s/lpi2dgq5w29v2kz/Excel%20Intermedio%20-%20Clase2.1.pdf?dl=0), [Clase 2.2](https://www.dropbox.com/s/7cxvqbkamfhnzez/Excel%20Intermedio%20-%20Clase2.pdf?dl=0), [Laboratorio 2](https://www.dropbox.com/s/w5dpi0pep9pohco/Laboratorio_1.pdf?dl=0).
+* Funciones y Condiciones [Clase 3.1](https://www.dropbox.com/s/lpi2dgq5w29v2kz/Excel%20Intermedio%20-%20Clase2.1.pdf?dl=0), [Clase 3.2](https://www.dropbox.com/s/sshb24ekddeyovx/Excel%20Intermedio%20-%20Clase3.pdf?dl=0), [Laboratorio 3](https://www.dropbox.com/s/7qt4dho7o5a60or/Laboratorio_2.pdf?dl=0), [Dataset](https://www.dropbox.com/s/dbn58q5ce1xx89m/matches.csv?dl=0), 
+
 
 ### Topicos Complementarios 
 
 * BoxPlot en Excel [link 1](https://www.dropbox.com/s/p1983bvfl9xjdav/Grsficos_BoxPlot.pdf?dl=0).
-
+* Formato condicional en Excel 1 [link 2](https://www.dropbox.com/s/xs3lxkpxoudyiv9/Formato-Condicional.pdf?dl=0).
+* Formato condicional en Excel 2 [link 3](https://www.dropbox.com/s/7zdl3jvcrh505xn/excel_205_funciones_condicionales_busqueda.pdf?dl=0)
 
 ## Recursos digitales
 
