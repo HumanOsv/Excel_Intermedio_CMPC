@@ -66,7 +66,7 @@ de problemas de diversos ámbitos.
 * Cinta de Etiquetas de Excel [Clase 1](https://www.dropbox.com/s/sj3voanwmxuhmyr/Excel%20Intermedio%20-%20Clase1.pdf?dl=0).
 * Funciones Graficos [Clase 2.1](https://www.dropbox.com/s/lpi2dgq5w29v2kz/Excel%20Intermedio%20-%20Clase2.1.pdf?dl=0), [Clase 2.2](https://www.dropbox.com/s/7cxvqbkamfhnzez/Excel%20Intermedio%20-%20Clase2.pdf?dl=0), [Laboratorio 2](https://www.dropbox.com/s/w5dpi0pep9pohco/Laboratorio_1.pdf?dl=0).
 * Funciones y Condiciones [Clase 3](https://www.dropbox.com/s/sshb24ekddeyovx/Excel%20Intermedio%20-%20Clase3.pdf?dl=0), [Laboratorio 3](https://www.dropbox.com/s/99dy570m91omj0q/Laboratorio_2.pdf?dl=0), [Dataset](https://www.dropbox.com/s/dbn58q5ce1xx89m/matches.csv?dl=0),
-* Formato Condicional en celdas [Clase 4](https://www.dropbox.com/s/86pzfguy6jrig2p/Excel%20Intermedio%20-%20Clase4.pdf?dl=0).
+* Formato Condicional en celdas [Clase 4](https://www.dropbox.com/s/86pzfguy6jrig2p/Excel%20Intermedio%20-%20Clase4.pdf?dl=0), [Dataset](https://www.dropbox.com/s/ooxl1i8unp7hjc7/Supertienda%2BEspa%C3%B1ol.xlsx?dl=0).
 
 
 ### Topicos Complementarios 
@@ -76,6 +76,9 @@ de problemas de diversos ámbitos.
 * Formato condicional en Excel 2 [link 3](https://www.dropbox.com/s/7zdl3jvcrh505xn/excel_205_funciones_condicionales_busqueda.pdf?dl=0).
 * Formato Condicional en celdas 1 [link 4](https://www.ionos.es/digitalguide/online-marketing/vender-en-internet/formato-condicional-en-excel/).
 * Formato Condicional en celdas 2 [link 5](https://www.dropbox.com/s/t1nfomz48yaabf9/FORMATO%20CONDICIONAL%20EN%20EXCEL.pdf?dl=0).
+* Formato Condicional en celdas 3 [link 6](https://www.dropbox.com/s/7qvat6ql2eme432/pr11.pdf?dl=0)
+
+
 
 ## Recursos digitales
 
