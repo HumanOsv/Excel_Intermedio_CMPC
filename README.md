@@ -71,6 +71,7 @@ de problemas de diversos ámbitos.
 
 ### Dataset proyectos curso 
 
+* Pasos rubrica [link](https://www.dropbox.com/s/hnqger5af99zup2/Rubrica_pasos.pdf?dl=0).
 * Chilean Dairy Production [kaggle 1](https://www.kaggle.com/datasets/indynavarrovidal/chilean-dairy-production).
 * Santa Isabel chile [kaggle 2](https://www.kaggle.com/datasets/edwight/santa-isabel-chile).
 
