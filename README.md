@@ -67,7 +67,7 @@ de problemas de diversos ámbitos.
 * Funciones Graficos [Clase 2.1](https://www.dropbox.com/s/lpi2dgq5w29v2kz/Excel%20Intermedio%20-%20Clase2.1.pdf?dl=0), [Clase 2.2](https://www.dropbox.com/s/7cxvqbkamfhnzez/Excel%20Intermedio%20-%20Clase2.pdf?dl=0), [Laboratorio 2](https://www.dropbox.com/s/w5dpi0pep9pohco/Laboratorio_1.pdf?dl=0).
 * Funciones y Condiciones [Clase 3](https://www.dropbox.com/s/sshb24ekddeyovx/Excel%20Intermedio%20-%20Clase3.pdf?dl=0), [Laboratorio 3](https://www.dropbox.com/s/99dy570m91omj0q/Laboratorio_2.pdf?dl=0), [Dataset](https://www.dropbox.com/s/dbn58q5ce1xx89m/matches.csv?dl=0),
 * Formato Condicional en celdas [Clase 4](https://www.dropbox.com/s/86pzfguy6jrig2p/Excel%20Intermedio%20-%20Clase4.pdf?dl=0), [Dataset](https://www.dropbox.com/s/ooxl1i8unp7hjc7/Supertienda%2BEspa%C3%B1ol.xlsx?dl=0).
-
+* Manejo fecha y texto [Clase 5](https://www.dropbox.com/s/gjht23z6xos4cjy/Excel%20Intermedio%20-%20Clase5.pdf?dl=0)
 
 ### Topicos Complementarios 
 
