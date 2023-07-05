@@ -69,6 +69,12 @@ de problemas de diversos ámbitos.
 * Formato Condicional en celdas [Clase 4](https://www.dropbox.com/s/86pzfguy6jrig2p/Excel%20Intermedio%20-%20Clase4.pdf?dl=0), [Dataset](https://www.dropbox.com/s/ooxl1i8unp7hjc7/Supertienda%2BEspa%C3%B1ol.xlsx?dl=0).
 * Manejo fecha y texto [Clase 5](https://www.dropbox.com/s/gjht23z6xos4cjy/Excel%20Intermedio%20-%20Clase5.pdf?dl=0).
 
+### Dataset proyectos curso 
+
+jklasjfklsa}
+dklsadjlsad
+
+
 ### Topicos Complementarios 
 
 * BoxPlot en Excel [link 1](https://www.dropbox.com/s/p1983bvfl9xjdav/Grsficos_BoxPlot.pdf?dl=0).
@@ -78,9 +84,14 @@ de problemas de diversos ámbitos.
 * Formato Condicional en celdas 2 [link 5](https://www.dropbox.com/s/t1nfomz48yaabf9/FORMATO%20CONDICIONAL%20EN%20EXCEL.pdf?dl=0).
 * Formato Condicional en celdas 3 [link 6](https://www.dropbox.com/s/7qvat6ql2eme432/pr11.pdf?dl=0).
 
+##  Power BI
+
+* Tutorial Power BI 1 [link 1](https://www.dropbox.com/s/eyzo5yb6mvlz7ey/001-Guia-Tutorial-PDF-Power-BI.pdf?dl=0).
+* Tutorial Power BI 2 [link 2](https://www.dropbox.com/s/7z9cqp7dv69jwrt/capitulo_01_introduccion.pdf?dl=0).
+
 ## Recursos digitales
 
-* A2 Capacitación: Excel [link 6](https://www.youtube.com/@A2CapacitacionExcel)
+* A2 Capacitación: Excel [link](https://www.youtube.com/@A2CapacitacionExcel)
 
 
 
